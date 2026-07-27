@@ -1,1 +1,3 @@
-
+# Tesis del máster en Reproducción Asistida
+Esta tesis consistión en estudiar el uso clínico del la fecundación in vitro covencional (FIV) frente a de la inyección intracitoplasmática de espermatozoides (ICSI)
+en casos donde la infertilidad no es debida al factor masculino. Se realizó un análisis comparativo de las tasas de nacido vivo de ambas técnicas de fecundación teniendo en cuenta factores como edad materna, respuesta ovárica y antecedentes de ciclos previos. Este análisis se llevó a cabo empleando el registro de la institución regulatoria Human Fertilisation and Embriology Authority (HFEA) de Reino Unido (2017-2018)
